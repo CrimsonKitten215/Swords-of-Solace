@@ -1,17 +1,12 @@
-# Swords-of-Solace
+# Swords of Solace
 An early version of an RPG I was planning on making for a while but my CS NEA got in the way.
 
 
-CREDITS:
-
-Games that inspired me:
-
-Undertale
-
-Deltarune
-
-Soul Nomad and the World Eaters
-
+CREDITS:  
+Games that inspired me:  
+Undertale  
+Deltarune  
+Soul Nomad and the World Eaters  
 Dayshift at Freddy's (FNAF Fangame)
 
 
